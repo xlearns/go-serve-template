@@ -2,3 +2,6 @@
 2023-07-19 17:51:32.172 INFO go-serve/main.go:68 Waiting for the router, retry in 1 second.
 2023-07-19 17:51:33.174 INFO go-serve/main.go:51 The router has been deployed successfully.
 2023-07-19 17:51:36.492 INFO sd/check.go:75 日志测试
+2023-07-19 17:55:10.807 INFO go-serve/main.go:54 Start to listening the incoming requests on http address: :60001
+2023-07-19 17:55:10.810 INFO go-serve/main.go:51 The router has been deployed successfully.
+2023-07-19 17:56:36.916 INFO sd/check.go:75 日志测试
